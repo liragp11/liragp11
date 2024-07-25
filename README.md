@@ -11,12 +11,12 @@ Trabalho utilizando as seguintes linguagens
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
 
 
-# 🌐 Contatos
+# 🌐 Links
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/liragp11)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-paes-de-lira-47b4681b5/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-lira-dev/)
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:gabrielpaesdelira@gmail.com)
 [![Instagram](https://img.shields.io/badge/-@liragp11-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/liragp11/)
-[![Instagram](https://img.shields.io/badge/-@liraguitarplayer11-a9273f?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/liraguitarplayer11/)
+[![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)](https://liragp11.itch.io/)
 # Hobbies
 
 - 🕹 Jogar videogames
