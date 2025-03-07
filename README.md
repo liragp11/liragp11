@@ -23,6 +23,7 @@ Trabalho utilizando as seguintes linguagens
 - 🎸 Tocar guitarra
 - ✏ Desenhar
 - 🎙 Ouvir podcasts
+- 👟 Exercício físico
 - 🎵 Ouvir músicas (principalmente heavy metal 🤘😁) [Escute minha playlist](https://open.spotify.com/playlist/0eHm1P39fk7Uu1j7Upb7N9)
 
 ## Fim do ReadMe
